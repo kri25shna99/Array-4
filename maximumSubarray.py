@@ -1,3 +1,6 @@
+#Youtube- https://www.youtube.com/watch?v=DxAwNHH8s5s&ab_channel=%7BS30%7D
+#time - O(n)
+#Space - O(1)
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         #null condition
